@@ -25,6 +25,12 @@
 | P7 | [Prezi](https://prezi.com/) | หน้าผลิตภัณฑ์นำเสนอ |
 | P8 | [LibreOffice](https://www.libreoffice.org/) | Impress ในชุดสำนักงานโอเพนซอร์ส |
 | I1 | [Unsplash License](https://unsplash.com/license) | การดาวน์โหลดและใช้ภาพ ภาพยังอยู่ภายใต้สิทธิ์เจ้าของเดิม |
+| D3 | [Datawrapper: Why bar charts start at zero](https://www.datawrapper.de/docs/why-our-column-and-bar-charts-start-at-zero) | ความยาวแท่งและฐานศูนย์ |
+| A2 | [W3C Use of Color](https://www.w3.org/WAI/WCAG22/Understanding/use-of-color) | ใช้ข้อความหรือรูปร่างร่วมกับสี |
+| G7 | [Gamma Speaker Notes](https://help.gamma.app/en/articles/11047307-can-i-use-speaker-notes-while-presenting-in-gamma) | บันทึกผู้พูดและ Presenter View |
+| G8 | [Gamma Present Mode](https://help.gamma.app/en/articles/8032935-what-s-the-best-way-to-present-my-gamma) | การฉายจอ การนำทาง และการเน้นเนื้อหา |
+| G9 | [Gamma AI Animations](https://help.gamma.app/en/articles/13920980-how-do-i-add-animations-in-gamma) | แยกคลิป AI ออกจากการเปลี่ยนหน้า ข้อจำกัดแผน |
+| A3 | [W3C WCAG 2.2: Captions](https://www.w3.org/TR/2023/REC-WCAG22-20231005/#captions-prerecorded) | คำบรรยายเสียงสำหรับสื่อบันทึกที่มีภาพและเสียง |
 
 ## วิธีทบทวนก่อนใช้สอนครั้งต่อไป
 
