@@ -51,6 +51,8 @@
 - [ใบงาน 6: โครงงาน](worksheets/06-capstone.md)
 - [แม่แบบแฟ้มสะสมผลงาน](worksheets/portfolio-template.md)
 - [แหล่งอ้างอิง](SOURCES.md) และ [เครดิตภาพ](ASSET-CREDITS.md)
+- [หน้ารวมตรวจงานและ commit รายหน่วย](REVIEW.md)
+- [แนวทางแก้ไขและสร้างภาพใหม่](CONTRIBUTING.md)
 
 ```text
 units/           บทเรียนฉบับเต็ม 6 หน่วย
